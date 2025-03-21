@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s" width="1000" length="300" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s" width="1200" length="300" >
 <h1 align="center">Hi 👋, I'm Mithun J</h1>
 <h3 align="center">Tech Enthusiast/A Passionate Software Engineer</h3>
 
