@@ -21,8 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mithunj23&show_icons=true&locale=en" alt="mithunj23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithunj23&" alt="mithunj23" /></p>
-<style>
-  .logo{
-    width=300px;
-    }
-</style>
+
