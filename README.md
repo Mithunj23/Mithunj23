@@ -130,22 +130,3 @@ B.E. Information Science & Engineering
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithunj23&show_icons=true&locale=en" alt="Mithunj23 GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithunj23" alt="Mithunj23 GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunj23&layout=compact" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <b>🚀 Build. Learn. Experiment. Improve.</b>
-</p>
