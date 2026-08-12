@@ -1,83 +1,99 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWstXvCrjt5kLFco6esyZc3MZJDRgozn3wgg&s" width="1200" height="300">
+
 <h1 align="center">Hi 👋, I'm Mithun J</h1>
 
 <h3 align="center">Software Engineer | Full-Stack Developer | Backend & AI/GenAI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+scalable+software+solutions;Backend+%7C+Full-Stack+%7C+Data+Engineering;Exploring+LLMs+%7C+RAG+%7C+MCP;Always+learning+and+building" alt="Typing SVG" />
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?semt=ais_hybrid">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mithunj23&label=Profile%20views&color=0e75b6&style=flat" alt="Mithunj23" />
 </p>
 
----
-
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 * 🎓 Information Science & Engineering undergraduate at **Cambridge Institute of Technology, Bangalore**
 * 📊 **CGPA: 8.51/10**
 * 💻 Interested in **Software Engineering, Backend & Full-Stack Development**
-* ⚙️ Experienced with **REST APIs, real-time applications and data pipelines**
+* ⚙️ Building applications with **Java, Python, JavaScript, React, Node.js and FastAPI**
+* 🗄️ Working with **PostgreSQL, MySQL, MongoDB and SQLite**
 * 📊 Interested in **Data Engineering, analytics and data quality**
 * 🤖 Exploring **LLMs, Generative AI, RAG and Model Context Protocol (MCP)**
-* 🧠 Strong foundation in **DSA, OOP, DBMS and SDLC**
 * ☁️ Working with **Docker, Git/GitHub and AWS**
-* 🚀 Passionate about building practical solutions to real-world problems
+* 🧠 Strong foundation in **DSA, OOP, DBMS and SDLC**
+* 🚀 Always learning, building and experimenting with new technologies
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 AI / GenAI
 
-### Languages
+I'm particularly interested in building practical AI-powered applications by combining:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+**LLMs • RAG • Generative AI • MCP • APIs • Backend Systems • Data**
+
+My goal is to understand how AI can be integrated into **real-world software systems**, rather than focusing only on standalone AI experiments.
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
 </p>
 
-### Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-`REST APIs` • `WebSockets` • `Socket.IO` • `JWT`
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
-</p>
-
-### AI / Data
-
-`Pandas` • `NumPy` • `Machine Learning` • `LLMs` • `Generative AI` • `RAG` • `MCP`
-
-### Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-## 🤖 AI / GenAI
-
-Currently exploring the intersection of **software engineering and AI**:
-
-* 🧠 Large Language Models
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🤖 Generative AI
-* 🔌 Model Context Protocol (MCP)
-* ⚙️ AI-powered backend systems
-* 🔗 AI + APIs + data pipelines
-
-> My focus is on building AI systems that work with real applications, data and backend infrastructure — not just experimenting with prompts.
-
----
-
-## 📚 Certifications
+### 📜 Certifications
 
 * **Introduction to Model Context Protocol** — Anthropic
 * **Introduction to Agent Skills** — Anthropic
@@ -88,41 +104,48 @@ Currently exploring the intersection of **software engineering and AI**:
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 **Cambridge Institute of Technology, Bangalore**
-B.E. — Information Science & Engineering
-2023 – 2027 | **CGPA: 8.51/10**
+B.E. Information Science & Engineering
+**2023 – 2027 | CGPA: 8.51/10**
 
 ---
 
-## 📊 GitHub
+### 🔗 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mithunj23&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithunj23&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunj23&layout=compact&hide_border=true&langs_count=8"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mithunj6363">
-    <img src="https://img.shields.io/badge/LinkedIn-Mithun%20J-blue?style=for-the-badge&logo=linkedin"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mithunj6363" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/Mithunj23" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="mailto:mithunj2326@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/Mithunj23">
-    <img src="https://img.shields.io/badge/HackerRank-Mithunj23-green?style=for-the-badge&logo=hackerrank"/>
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="30" />
   </a>
 </p>
 
+📫 **Email:** [mithunj2326@gmail.com](mailto:mithunj2326@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <b>Build • Learn • Experiment • Improve 🚀</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mithunj23&show_icons=true&locale=en" alt="Mithunj23 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mithunj23" alt="Mithunj23 GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithunj23&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <b>🚀 Build. Learn. Experiment. Improve.</b>
 </p>
